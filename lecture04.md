@@ -1,11 +1,11 @@
 ## 第４回課題提出
 
 # VPC,EC2,RDSの作成
-![VPC](/raisetech-lecture4/スクリーンショット 2023-02-19 18.30.33.png)
+![VPC](/raisetech-lecture4/vpcsetting.png)
 
-![EC2](/raisetech-lecture4/スクリーンショット 2023-02-22 21.20.09.png)
+![EC2](/raisetech-lecture4/ec2.png)
 
-![RDS](/raisetech-lecture4/スクリーンショット 2023-02-22 21.20.48.png)
+![RDS](/raisetech-lecture4/database.png)
 
 # EC2からのRDSへの接続
 
